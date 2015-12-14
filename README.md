@@ -1,6 +1,6 @@
 # Extractor
 
-Extract, Transform, and Load.
+Extract, transform, and load from a local or remote database into a local `sqlite` database.
 
 Program requires a `config.json` in root directory:
 
